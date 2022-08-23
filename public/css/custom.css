@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'kimchi';
+    src: url('../fonts/MN KIMCHI NEW.ttf');
+}
+
+body{
+   /* font-family: 'Itim', cursive; จาก google font*/
+   font-family: 'kimchi', sans-serif;   /*font ทำเอง*/
+ 
+}
